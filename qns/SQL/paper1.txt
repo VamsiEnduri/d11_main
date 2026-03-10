@@ -1,0 +1,30 @@
+what is dbms ? types of dbms and examples ?
+what is the d/f b/w the rdbms and nordbms ?
+what is sql ?
+what is d/f b/w the sql vs mysql ?
+what is data and what is database?
+what is table and what are columns & rows ?
+how many types sql commands are there ?
+what is the select command ? why we use it ?
+what is d/f b/w the from and where clauses ?
+what is the d/f b/w the create command and use keyword ?
+what is the command to create db in mysql ?
+what is the syntax to create the table in mysql ?
+how many types of datatypes are there in sql ?
+what are str datatypes in sql ? explain about each type ?
+what is the d/f b/w the char() and varchar()?
+what is the d/f b/w the decimal () vs float() ?
+what is the d/f b/w the text vs varchar () ?
+what is constrain ? and types of constrains in sql ?
+what is the d/f b/w the primary key vs foreign key in sql ?
+what is the d/f b/w the default and not null ?
+what is the d/f b/w the enum() and check () ?
+what is operator in sql and types of operators?
+what are logical operator and types in it and explain them each ?
+what are the special operators in sql and explain each of them ?
+what is the d/f b/w the between vs in operators ?
+what is the d/f b/w the in vs or operators ?
+what is the d/f b/w the like vs is null ?
+what is the d/f b/w the in vs not in ?
+what is the d/f b/w the and vs or  vs not ?
+what is int datatype in sql ? can we use int like int(2)?
