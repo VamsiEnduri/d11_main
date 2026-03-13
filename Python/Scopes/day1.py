@@ -24,7 +24,7 @@ def mul():
 mul()
 
 # what is the function scoped variable here in the file ? mention any two ?
-
+# LEGB :-- legb
 print(a)
 
 
