@@ -12,7 +12,7 @@ def parent():
             print(pName)
 
         # nestedChild()
-    nestedChild()
+        nestedChild()
 
     print(pName)
     child()  
